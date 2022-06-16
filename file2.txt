@@ -1,2 +1,3 @@
 this is file number 2
 Update file2
+modified file2 from origin new branch
