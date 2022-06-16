@@ -1,3 +1,4 @@
 Hello my name is Duy
 This is file 1
 New update to file1
+This is an update to file1 from branch "new-branch"
